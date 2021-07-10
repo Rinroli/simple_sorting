@@ -13,7 +13,7 @@ The simplest scenario is to run without any parameters - it will sort *Downloads
 
 **Check** the location of your *Downloads* directory!
 
-By default it is *'/home/Загрузки'* in **Linux** and *'C:\Users\<user_name>\Downloads'* in Windows
+By default it is *'/home/<user_name>/Загрузки'* in **Linux** and *'C:\Users\\<user_name>\Downloads'* in Windows
 
 > I'm Russian, so it looks like you need to rename *'Загрузки'* to a suitable directory =)
 
