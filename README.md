@@ -1,6 +1,6 @@
 # Sort files
 
-This simple script can sort files by categories (based on the extensions). Written in *python* using some awesome modules - `pathlib`, `argparse` and `logging`.
+This simple script can sort files by categories (based on the extensions). ***Without*** sorting subfolders (consciously). Written in *python* using some awesome modules - `pathlib`, `argparse` and `logging`.
 
 ## Usage
 
